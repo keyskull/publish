@@ -39,8 +39,8 @@ jobs:
                 }
               }
             }
-          owner: ${{ GITHUB_ACTOR }}
-          repo: ${{ GITHUB_REPOSITORY }}
+          owner: keyskull
+          repo: keyskull/publish
         env:
           GITHUB_TOKEN: ${{ secrets.SYNCED_GITHUB_TOKEN }}
       - run: "echo 'latest release: ${{ steps.get_latest_release.outputs.data }}'"
