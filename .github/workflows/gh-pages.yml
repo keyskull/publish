@@ -39,8 +39,8 @@ jobs:
                 }
               }
             }
-          owner: keyskull
-          repo: keyskull/publish
+          owner: ${{ github.event.repository.owner.name }}
+          repo: ${{ github.event.repository.name }}
         env:
           GITHUB_TOKEN: ${{ secrets.SYNCED_GITHUB_TOKEN }}
       - run: "echo 'latest release: ${{ steps.get_latest_release.outputs.data }}'"
