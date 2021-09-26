@@ -13,7 +13,7 @@
       const Uri =  UriArray.length == 0 ? "" : UriArray.reduce((previousValue, currentValue) => previousValue + '/' + currentValue + '/');
        
       (async () => {
-        const response = await fetch('https://api.github.com/repos/keyskull/publish/contents/'+ Uri);
+        const response = await fetch('https://api.github.com/repos/keyskull/publish/contents/'+ Uri + '?ref=gh-pages');
         const data = await response.json();
         let htmlString = '<ul>';
         for (let file of data) {
