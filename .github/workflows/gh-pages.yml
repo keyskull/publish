@@ -18,3 +18,7 @@ jobs:
       with:
         github_token: ${{secrets.SYNCED_GITHUB_TOKEN}}
         publish_dir: ./publish
+        
+    - uses: kamilkisiela/graphql-inspector@v2.9.0
+      with:
+        schema: 'gh-pages:schema.graphql'
