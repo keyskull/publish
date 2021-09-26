@@ -39,8 +39,8 @@ jobs:
                 }
               }
             }
-          owner: ${{ github.event.repository.owner.name }}
-          repo: ${{ github.event.repository.name }}
+          owner: ${{ env.GITHUB_ACTOR }}
+          repo: ${{ env.GITHUB_REPOSITORY }}
         env:
           GITHUB_TOKEN: ${{ secrets.SYNCED_GITHUB_TOKEN }}
       - run: "echo 'latest release: ${{ steps.get_latest_release.outputs.data }}'"
