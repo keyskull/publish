@@ -17,6 +17,9 @@ jobs:
       with:
         token: ${{ secrets.SYNCED_GITHUB_TOKEN }}
         
+    - name: Copy json file
+      run: mv ./files.json ./publish
+        
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
