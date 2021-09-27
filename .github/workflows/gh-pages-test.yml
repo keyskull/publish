@@ -1,0 +1,23 @@
+on:
+
+  workflow_dispatch:
+
+jobs:
+  deploy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+      
+    - uses: keyskull/gh-action-get-changed-files@master
+      with:
+        token: ${{ secrets.SYNCED_GITHUB_TOKEN }}
+        
+    - name: Copy json file
+      run: mv ~/files_detail.json ./publish
+
+
+
+  
