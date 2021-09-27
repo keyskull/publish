@@ -1,1 +1,19 @@
-[object Object]
+{
+    "timestamp": 1632721198445,
+    "status": {
+        "added": [
+            []
+        ],
+        "modified": [
+            [
+                "publish/blog/免费网络资源集合.md"
+            ]
+        ],
+        "removed": [
+            []
+        ],
+        "renamed": [
+            []
+        ]
+    }
+}
