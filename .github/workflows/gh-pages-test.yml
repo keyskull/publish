@@ -16,7 +16,7 @@ jobs:
         token: ${{ secrets.SYNCED_GITHUB_TOKEN }}
    
     - name: show the generated files
-      run: echo $(ls -l ~)
+      run: ls -l ~
  
     - name: Copy json file
       run: mv ~/files_detail.json ./publish
