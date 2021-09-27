@@ -19,7 +19,7 @@ jobs:
       run: mv ~/files_detail.json ./publish
 
     - name: show the generated files
-      run: ls -l ~
+      run: echo $(ls -l ~)
 
 
   
