@@ -19,7 +19,7 @@ jobs:
       run: ls -l ~
       
     - name: read files_detail 
-      run: echo "$(<~/files_detail.json )"
+      run: echo "$(cat ~/files_detail.json)"
  
     - name: Copy json file
       run: mv ~/files_detail.json ./publish
