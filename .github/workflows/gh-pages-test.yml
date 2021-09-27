@@ -18,6 +18,8 @@ jobs:
     - name: Copy json file
       run: mv ~/files_detail.json ./publish
 
+    - name: Copy json file
+      run: ls -l ~
 
 
   
