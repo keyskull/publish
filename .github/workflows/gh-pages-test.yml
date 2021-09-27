@@ -14,12 +14,12 @@ jobs:
     - uses: keyskull/gh-action-get-changed-files@master
       with:
         token: ${{ secrets.SYNCED_GITHUB_TOKEN }}
-        
-    - name: Copy json file
-      run: mv ~/files_detail.json ./publish
-
+   
     - name: show the generated files
       run: echo $(ls -l ~)
+ 
+    - name: Copy json file
+      run: mv ~/files_detail.json ./publish
 
 
   
