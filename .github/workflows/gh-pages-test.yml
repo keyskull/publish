@@ -17,6 +17,9 @@ jobs:
    
     - name: show the generated files
       run: ls -l ~
+      
+    - name: read files_detail 
+      run: echo "$(<~/files_detail.json )"
  
     - name: Copy json file
       run: mv ~/files_detail.json ./publish
