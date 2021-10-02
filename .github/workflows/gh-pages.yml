@@ -21,7 +21,7 @@ jobs:
       uses: kbrashears5/github-action-file-sync@v2.0.0
       with:
         REPOSITORIES: |
-          keyskull/cullen.ml:metadata
+          keyskull/publish:metadata
         FILES: |
           ~/metadata.json=metadata.json
         TOKEN: ${{secrets.SYNCED_GITHUB_TOKEN}}
