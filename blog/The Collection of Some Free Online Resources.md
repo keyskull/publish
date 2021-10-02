@@ -5,7 +5,7 @@ tags: [online resource]
 ## free online resource list
 Date:  2021-09-12 15:49
 
-Chinese: [[免费网络资源集合2]]
+Chinese: [[免费网络资源集合]]
 
 # List:
 - [[A Few Ways of Using Free Resources to Create a Personal Website]]

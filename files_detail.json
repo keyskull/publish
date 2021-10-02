@@ -1,5 +1,5 @@
 {
-    "timestamp": 1633068770728,
+    "timestamp": 1633163902752,
     "status": {
         "added": [
             []
@@ -15,7 +15,12 @@
         ],
         "renamed": [
             [
-                "publish/blog/免费网络资源集合2.md"
+                {
+                    "file": {
+                        "filename": "publish/blog/免费网络资源集合.md",
+                        "previous_filename": "publish/blog/免费网络资源集合2.md"
+                    }
+                }
             ]
         ]
     }
