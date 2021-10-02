@@ -28,11 +28,19 @@ jobs:
         
     - name: Copy json files
       run: |
+        mkdir ./metadata
+        cp ~/metadata.json ./metadata
         mv ~/files_detail.json  ./publish
         mv ~/metadata.json  ./publish
 
+    - name: Store Metadata
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{secrets.SYNCED_GITHUB_TOKEN}}
+        publish_dir: ./metadata
+        publish_branch: metadata
         
-    - name: Deploy
+    - name: Publish to gh-pages branch
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{secrets.SYNCED_GITHUB_TOKEN}}
