@@ -1,25 +1,17 @@
 {
-    "timestamp": 1633165951854,
+    "timestamp": 1633166014714,
     "status": {
         "added": [
             []
         ],
         "modified": [
             [
-                "publish/blog/The Collection of Some Free Online Resources.md",
-                "publish/blog/使用免费资源创建个人网站的几种方法.md"
+                ".github/workflows/gh-pages.yml"
             ]
         ],
         "removed": [
             []
         ],
-        "renamed": [
-            {
-                "file": {
-                    "filename": "publish/blog/免费网络资源集合.md",
-                    "previous_filename": "publish/blog/免费网络资源集合2.md"
-                }
-            }
-        ]
+        "renamed": []
     }
 }
