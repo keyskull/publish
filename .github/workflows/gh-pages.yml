@@ -16,9 +16,21 @@ jobs:
     - uses: keyskull/gh-action-get-changed-files@master
       with:
         token: ${{ secrets.SYNCED_GITHUB_TOKEN }}
+              
+    - name: Files Sync Action
+      uses: kbrashears5/github-action-file-sync@v2.0.0
+      with:
+        REPOSITORIES: |
+          keyskull/cullen.ml:metadata
+        FILES: |
+          ~/metadata.json=metadata.json
+        GITHUB_TOKEN: ${{secrets.SYNCED_GITHUB_TOKEN}}
         
-    - name: Copy json file
-      run: mv ~/files_detail.json ./publish
+    - name: Copy json files
+      run: |
+        mv ~/files_detail.json  ./publish
+        mv ~/metadata.json  ./publish
+
         
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
