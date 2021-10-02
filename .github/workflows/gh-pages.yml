@@ -24,7 +24,7 @@ jobs:
           keyskull/cullen.ml:metadata
         FILES: |
           ~/metadata.json=metadata.json
-        GITHUB_TOKEN: ${{secrets.SYNCED_GITHUB_TOKEN}}
+        TOKEN: ${{secrets.SYNCED_GITHUB_TOKEN}}
         
     - name: Copy json files
       run: |
