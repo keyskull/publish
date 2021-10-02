@@ -5,7 +5,7 @@ tags: [free, resource]
 
 -- latest updated: 08/22/2020 01:30:45
 
-Chinese: [[使用免费资源创建个人网站的几种方法]]
+Chinese: [[使用免费网络源创建个人网站的多种方法]]
 
 ### Introduction
 On the internet, always having somewhere is hiding treasure, they're all waiting for you to explore. I'm gonna share a few ways about how to using [[The Collection of Some Free Online Resources|free online resource]] to create a personal website.
