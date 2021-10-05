@@ -1,5 +1,5 @@
 {
-    "timestamp": 1633212385839,
+    "timestamp": 1633463783840,
     "status": {
         "added": [],
         "modified": [
@@ -10,14 +10,8 @@
         "renamed": [
             {
                 "file": {
-                    "filename": "publish/blog/使用免费网络源创建个人网站的多种方法.md",
-                    "previous_filename": "publish/blog/使用免费资源创建个人网站的几种方法.md"
-                }
-            },
-            {
-                "file": {
-                    "filename": "publish/blog/静态网页托管服务资源.md",
-                    "previous_filename": "publish/blog/免费静态网页托管服务.md"
+                    "filename": "publish/blog/使用免费网络源创建个人网站的多种方法和实现过程.md",
+                    "previous_filename": "publish/blog/使用免费网络源创建个人网站的多种方法.md"
                 }
             }
         ]
