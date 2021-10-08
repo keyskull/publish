@@ -26,16 +26,16 @@
         "b627203efeba7194f995dd1924627d07": {
             "path": "publish/blog/使用免费资源创建个人网站的几种方法.md",
             "title": "使用免费网络源创建个人网站的多种方法和实现过程",
-            "revise_time": 2,
+            "revise_time": 3,
             "authors": [],
             "tags": [],
             "used_names": [
                 "publish/blog/使用免费资源创建个人网站的几种方法.md",
                 "publish/blog/使用免费网络源创建个人网站的多种方法.md"
             ],
-            "last_action": "unknown",
+            "last_action": "modified",
             "created_timestamp": 1633210045120,
-            "updated_timestamp": 1633463784291
+            "updated_timestamp": 1633661218950
         },
         "9dbfd9758c1b34fcc40d1e06c1d2c183": {
             "path": "publish/blog/免费静态网页托管服务.md",
@@ -64,5 +64,5 @@
     },
     "trash": [],
     "logging": [],
-    "commit": "46395051f224c65b795d53523f8e9cdbda84429d"
+    "commit": "b707546c466eb18a422bed4ef3c3630ac27b92ed"
 }
