@@ -60,9 +60,20 @@
             "last_action": "unknown",
             "created_timestamp": 1633467681417,
             "updated_timestamp": 1633467681417
+        },
+        "738ba60277c8dc08ee45a89a1b1e9330": {
+            "path": "publish/blog/How to Host Your Static Page in Github.md",
+            "title": "How to Host Your Static Page in Github",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "unknown",
+            "created_timestamp": 1633924377084,
+            "updated_timestamp": 1633924377084
         }
     },
     "trash": [],
     "logging": [],
-    "commit": "b707546c466eb18a422bed4ef3c3630ac27b92ed"
+    "commit": "f9aa401f7acfcb8f52541b650fc8de20189409e5"
 }
