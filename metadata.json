@@ -4,13 +4,13 @@
         "d9a2d0cd129d239fa00de29ec6a4d9fc": {
             "path": "publish/blog/A Few Ways of Using Free Resources to Create a Personal Website.md",
             "title": "A Few Ways of Using Free Resources to Create a Personal Website",
-            "revise_time": 2,
+            "revise_time": 3,
             "authors": [],
             "tags": [],
             "used_names": [],
             "last_action": "modified",
             "created_timestamp": 1633211697053,
-            "updated_timestamp": 1633463784290
+            "updated_timestamp": 1634029453011
         },
         "4ee40374f244c1ff0a14627ea1fb3f52": {
             "path": "publish/blog/免费网络资源集合.md",
@@ -75,5 +75,5 @@
     },
     "trash": [],
     "logging": [],
-    "commit": "f9aa401f7acfcb8f52541b650fc8de20189409e5"
+    "commit": "063777153b25fd0c9a1ae0e6803410a0553fbabb"
 }
