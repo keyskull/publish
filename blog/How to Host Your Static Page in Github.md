@@ -1,7 +1,7 @@
 ---
 tags: [github, static-page, resource, github-page]
 ---
-## How to Host Your Static Page in Github
+# How to Host Your Static Page in Github
 Date:  2021-09-12 14:41
 
 ###  Introduction
@@ -11,10 +11,6 @@ Date:  2021-09-12 14:41
 
 
 ### Conclusion
-
-| dsada |     | 
-| ----- | --- |
-|       |     |
 
 
 ---
