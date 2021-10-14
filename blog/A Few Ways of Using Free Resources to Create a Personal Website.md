@@ -3,8 +3,7 @@ tags: [free, resource]
 ---
 
 # A Few Ways of Using Free Online Resources to Create a Personal Website
-
--- latest updated: 08/22/2020 01:30:45
+Date: 08/22/2020 01:30:45
 
 Chinese: [[使用免费网络源创建个人网站的多种方法和实现过程]]
 
