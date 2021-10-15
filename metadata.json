@@ -4,13 +4,13 @@
         "7885f1ef1fa0df5e0177169abf4a60bc": {
             "path": "publish/blog/使用 Github Pages创建静态使用教程.md",
             "title": "使用 Github Pages创建静态使用教程",
-            "revise_time": 0,
+            "revise_time": 1,
             "authors": [],
             "tags": [],
             "used_names": [],
-            "last_action": "added",
+            "last_action": "modified",
             "created_timestamp": 1634177400141,
-            "updated_timestamp": 1634177400141
+            "updated_timestamp": 1634262373497
         },
         "d9a2d0cd129d239fa00de29ec6a4d9fc": {
             "path": "publish/blog/A Few Ways of Using Free Resources to Create a Personal Website.md",
@@ -97,5 +97,5 @@
     },
     "trash": [],
     "logging": [],
-    "commit": "73180bfbb85e75bf16cd35bf1bfe9be72f614907"
+    "commit": "df976afaa8605a9e93a48487ac1b4290c59b0f99"
 }
