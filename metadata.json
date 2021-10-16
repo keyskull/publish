@@ -1,17 +1,6 @@
 {
     "version": "v1",
     "files": {
-        "7885f1ef1fa0df5e0177169abf4a60bc": {
-            "path": "publish/blog/使用 Github Pages创建静态使用教程.md",
-            "title": "使用 Github Pages创建静态使用教程",
-            "revise_time": 1,
-            "authors": [],
-            "tags": [],
-            "used_names": [],
-            "last_action": "modified",
-            "created_timestamp": 1634177400141,
-            "updated_timestamp": 1634262373497
-        },
         "d9a2d0cd129d239fa00de29ec6a4d9fc": {
             "path": "publish/blog/A Few Ways of Using Free Resources to Create a Personal Website.md",
             "title": "A Few Ways of Using Free Resources to Create a Personal Website",
@@ -51,7 +40,7 @@
         "9dbfd9758c1b34fcc40d1e06c1d2c183": {
             "path": "publish/blog/免费静态网页托管服务.md",
             "title": "静态网页托管服务资源",
-            "revise_time": 2,
+            "revise_time": 3,
             "authors": [],
             "tags": [],
             "used_names": [
@@ -59,7 +48,7 @@
             ],
             "last_action": "modified",
             "created_timestamp": 1633210044847,
-            "updated_timestamp": 1634092566116
+            "updated_timestamp": 1634410543976
         },
         "fc6988097954f601e9f877d8b1b5baa2": {
             "path": ".github/workflows/gh-pages.yml",
@@ -75,13 +64,13 @@
         "738ba60277c8dc08ee45a89a1b1e9330": {
             "path": "publish/blog/How to Host Your Static Page in Github.md",
             "title": "How to Host Your Static Page in Github",
-            "revise_time": 1,
+            "revise_time": 2,
             "authors": [],
             "tags": [],
             "used_names": [],
             "last_action": "modified",
             "created_timestamp": 1633924377084,
-            "updated_timestamp": 1634092566115
+            "updated_timestamp": 1634410543976
         },
         "b40b4f540a25a3329a52643b73afe4cf": {
             "path": "publish/blog/The Collection of Some Free Online Resources.md",
@@ -97,38 +86,51 @@
         "a15a668fff47e25d0358ce76d2ad05c8": {
             "path": "publish/blog/Backlinks in Markdown format.md",
             "title": "Backlinks in Markdown format",
-            "revise_time": 1,
+            "revise_time": 2,
             "authors": [],
             "tags": [],
             "used_names": [],
             "last_action": "modified",
             "created_timestamp": 1634321534750,
-            "updated_timestamp": 1634323374251
+            "updated_timestamp": 1634410543976
         },
         "b97e299dbe8576098483d44da453ef94": {
             "path": "publish/blog/PWM模拟信号实现.md",
             "title": "PWM模拟信号实现",
-            "revise_time": 0,
+            "revise_time": 1,
             "authors": [],
             "tags": [],
             "used_names": [],
-            "last_action": "added",
+            "last_action": "modified",
             "created_timestamp": 1634323373936,
-            "updated_timestamp": 1634323373936
+            "updated_timestamp": 1634410543976
         },
         "122bd4fc343628599da894777374568d": {
             "path": "publish/blog/Free Domain Resoures.md",
             "title": "Free Domain Resoures",
-            "revise_time": 0,
+            "revise_time": 1,
             "authors": [],
             "tags": [],
             "used_names": [],
-            "last_action": "added",
+            "last_action": "modified",
             "created_timestamp": 1634372511755,
-            "updated_timestamp": 1634372511755
+            "updated_timestamp": 1634410543976
+        },
+        "2da56399a291da5b91a533cf00a61298": {
+            "path": "publish/blog/使用 Github Pages创建静态网站的使用教程.md",
+            "title": "使用 Github Pages创建静态网站的使用教程",
+            "revise_time": 2,
+            "authors": [],
+            "tags": [],
+            "used_names": [
+                "publish/blog/使用 Github Pages创建静态使用教程.md"
+            ],
+            "last_action": "renamed",
+            "created_timestamp": 1634177400141,
+            "updated_timestamp": 1634410543976
         }
     },
     "trash": [],
     "logging": [],
-    "commit": "680ab9e9d9ed9b91b8f3898312a3ac911d841e5b"
+    "commit": "37c4ab13ea1855eb84d31408099573fd93a552fd"
 }
