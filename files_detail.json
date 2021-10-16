@@ -1,11 +1,13 @@
 {
-    "timestamp": 1634371940716,
+    "timestamp": 1634372511755,
     "status": {
         "added": [
-            "publish/blog/Untitled.md"
+            "publish/blog/Free Domain Resoures.md"
         ],
         "modified": [],
-        "removed": [],
+        "removed": [
+            "publish/blog/Untitled.md"
+        ],
         "renamed": []
     }
 }
