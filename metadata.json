@@ -119,18 +119,29 @@
         "2da56399a291da5b91a533cf00a61298": {
             "path": "publish/blog/使用 Github Pages创建静态网站的使用教程.md",
             "title": "使用 Github Pages创建静态网站的使用教程",
-            "revise_time": 2,
+            "revise_time": 3,
             "authors": [],
             "tags": [],
             "used_names": [
                 "publish/blog/使用 Github Pages创建静态使用教程.md"
             ],
-            "last_action": "renamed",
+            "last_action": "modified",
             "created_timestamp": 1634177400141,
-            "updated_timestamp": 1634410543976
+            "updated_timestamp": 1634411141004
+        },
+        "bc9a1f53f383d80c4a330a9e21eeaa58": {
+            "path": "publish/blog/建立图床服务器.md",
+            "title": "建立图床服务器",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1634411140731,
+            "updated_timestamp": 1634411140731
         }
     },
     "trash": [],
     "logging": [],
-    "commit": "37c4ab13ea1855eb84d31408099573fd93a552fd"
+    "commit": "775350be8bbe5a3e353d9463562c5ebf99ad4605"
 }

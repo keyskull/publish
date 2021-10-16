@@ -1,22 +1,13 @@
 {
-    "timestamp": 1634410543690,
+    "timestamp": 1634411140731,
     "status": {
-        "added": [],
+        "added": [
+            "publish/blog/建立图床服务器.md"
+        ],
         "modified": [
-            "publish/blog/Backlinks in Markdown format.md",
-            "publish/blog/Free Domain Resoures.md",
-            "publish/blog/How to Host Your Static Page in Github.md",
-            "publish/blog/PWM模拟信号实现.md",
-            "publish/blog/静态网页托管服务资源.md"
+            "publish/blog/使用 Github Pages创建静态网站的使用教程.md"
         ],
         "removed": [],
-        "renamed": [
-            {
-                "file": {
-                    "filename": "publish/blog/使用 Github Pages创建静态网站的使用教程.md",
-                    "previous_filename": "publish/blog/使用 Github Pages创建静态使用教程.md"
-                }
-            }
-        ]
+        "renamed": []
     }
 }
