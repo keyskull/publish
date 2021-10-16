@@ -1,5 +1,5 @@
 ---
-tags: [Backlink, markdown]
+tags: [backlink, markdown]
 ---
 # Backlinks in Markdown format
 Date:  2021-10-15 11:37
