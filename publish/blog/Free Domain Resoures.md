@@ -6,7 +6,7 @@ Date:  2021-10-16 01:11
 
 ##  Introduction
 
-[Freenom](https://my.freenom.com/)
+* [Freenom](https://my.freenom.com/)
 
 
 
