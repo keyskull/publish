@@ -15,7 +15,7 @@
       if(uri.slice(-1)=='/')
         uri = uri.substring(0, uri.length - 1);
       
-      const Url = 'https://api.github.com/repos/keyskull/publish/contents/'+ Uri + '?ref=gh-pages';
+      const Url = 'https://api.github.com/repos/keyskull/publish/contents/'+ uri + '?ref=gh-pages';
       
       (async () => {
         const response = await fetch(Url);
