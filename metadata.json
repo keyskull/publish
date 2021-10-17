@@ -139,9 +139,42 @@
             "last_action": "added",
             "created_timestamp": 1634411140731,
             "updated_timestamp": 1634411140731
+        },
+        "498c79e6700a4a16bb78a9523104f4b3": {
+            "path": "publish/projects/calories/Calories.md",
+            "title": "Calories",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1634440566827,
+            "updated_timestamp": 1634440566827
+        },
+        "92e97bc9b2f945c0d4ef2776ef3f5ed8": {
+            "path": "publish/projects/calories/output_12_0.png",
+            "title": "output_12_0",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1634440566827,
+            "updated_timestamp": 1634440566827
+        },
+        "dc1211dcc7995a65f4240ad03bbe0914": {
+            "path": "publish/projects/calories/output_12_0.svg",
+            "title": "output_12_0",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1634440566827,
+            "updated_timestamp": 1634440566827
         }
     },
     "trash": [],
     "logging": [],
-    "commit": "775350be8bbe5a3e353d9463562c5ebf99ad4605"
+    "commit": "4bd1467e718f0742ba91e3a14ac0a648128818c4"
 }
