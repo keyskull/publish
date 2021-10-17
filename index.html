@@ -10,10 +10,15 @@
           UriArray =  UriArray.slice(0,-1);
       }
         
-      const Uri =  UriArray.length == 0 ? "" : UriArray.reduce((previousValue, currentValue) => previousValue + '/' + currentValue + '/');
-       
+      var uri =  UriArray.length == 0 ? "" : UriArray.reduce((previousValue, currentValue) => previousValue + '/' + currentValue + '/');
+      
+      if(uri.slice(-1)=='/')
+        uri = uri.substring(0, uri.length - 1);
+      
+      const Url = 'https://api.github.com/repos/keyskull/publish/contents/'+ Uri + '?ref=gh-pages';
+      
       (async () => {
-        const response = await fetch('https://api.github.com/repos/keyskull/publish/contents/'+ Uri + '?ref=gh-pages');
+        const response = await fetch(Url);
         const data = await response.json();
         let htmlString = '<ul>';
         for (let file of data) {

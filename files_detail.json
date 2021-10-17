@@ -1,38 +1,11 @@
 {
-    "timestamp": 1634441170247,
+    "timestamp": 1634446022947,
     "status": {
-        "added": [
-            "publish/projects/Handwritten Digit Recognition/Handwritten Digit Recognition.md",
-            "publish/projects/Handwritten Digit Recognition/output_100_0.png",
-            "publish/projects/Handwritten Digit Recognition/output_106_1.png",
-            "publish/projects/Handwritten Digit Recognition/output_107_1.png",
-            "publish/projects/Handwritten Digit Recognition/output_109_0.png",
-            "publish/projects/Handwritten Digit Recognition/output_16_1.png",
-            "publish/projects/Handwritten Digit Recognition/output_19_2.png",
-            "publish/projects/Handwritten Digit Recognition/output_21_2.png",
-            "publish/projects/Handwritten Digit Recognition/output_22_2.png",
-            "publish/projects/Handwritten Digit Recognition/output_28_2.png",
-            "publish/projects/Handwritten Digit Recognition/output_30_2.png",
-            "publish/projects/Handwritten Digit Recognition/output_42_0.png",
-            "publish/projects/Handwritten Digit Recognition/output_61_2.png",
-            "publish/projects/Handwritten Digit Recognition/output_63_0.png",
-            "publish/projects/Handwritten Digit Recognition/output_70_0.png",
-            "publish/projects/Handwritten Digit Recognition/output_75_1.png",
-            "publish/projects/Handwritten Digit Recognition/output_77_0.png",
-            "publish/projects/Handwritten Digit Recognition/output_82_0.png",
-            "publish/projects/Handwritten Digit Recognition/output_83_1.png",
-            "publish/projects/Handwritten Digit Recognition/output_84_2.png",
-            "publish/projects/Handwritten Digit Recognition/output_86_0.png",
-            "publish/projects/Handwritten Digit Recognition/output_91_1.png",
-            "publish/projects/Handwritten Digit Recognition/output_93_0.png",
-            "publish/projects/Handwritten Digit Recognition/output_98_2.png"
+        "added": [],
+        "modified": [
+            "publish/index.html"
         ],
-        "modified": [],
-        "removed": [
-            "publish/projects/calories/Calories.md",
-            "publish/projects/calories/output_12_0.png",
-            "publish/projects/calories/output_12_0.svg"
-        ],
+        "removed": [],
         "renamed": []
     }
 }
