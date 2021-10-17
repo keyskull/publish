@@ -12,12 +12,9 @@
         
       var uri =  UriArray.length == 0 ? "" : UriArray.reduce((previousValue, currentValue) => previousValue + '/' + currentValue + '/');
       
-      if(uri.slice(-1)=='/')
-        uri = uri.substring(0, uri.length - 1);
-      
-      const Url = 'https://api.github.com/repos/keyskull/publish/contents/'+ uri + '?ref=gh-pages';
       
       (async () => {
+        const Url = 'https://api.github.com/repos/keyskull/publish/contents/'+ (uri.slice(-1)=='/' ? uri.substring(0, uri.length - 1) : uri) + '?ref=gh-pages';
         const response = await fetch(Url);
         const data = await response.json();
         let htmlString = '<ul>';
