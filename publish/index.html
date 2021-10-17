@@ -1,41 +1,33 @@
 <html>
-  <body>
-    <script>
-      const arrUrl = window.location.href.split("//");
-      
-      UriArray =  arrUrl[1].split('/').splice(1);
-      if(UriArray[UriArray.length-1].indexOf('.') != -1){
-          UriArray =  UriArray.slice(0,-1);
+
+<body>
+  <script>
+    const arrUrl = window.location.href.split("//");
+
+    UriArray = arrUrl[1].split('/').splice(1);
+    if (UriArray[UriArray.length - 1].indexOf('.') != -1) {
+      UriArray = UriArray.slice(0, -1);
+    }
+
+    var uri = UriArray.length == 0 ? "" : UriArray.reduce((previousValue, currentValue) => previousValue + '/' + currentValue + '/');
+
+    while (uri.slice(-1) == '/') {
+      uri = uri.substring(0, uri.length - 1);
+    }
+
+    const Url = 'https://api.github.com/repos/keyskull/publish/contents/' + uri + '?ref=gh-pages';
+
+    (async () => {
+      const response = await fetch(Url);
+      const data = await response.json();
+      let htmlString = '<ul>';
+      for (let file of data) {
+        htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
       }
+      htmlString += '</ul>';
+      document.getElementsByTagName('body')[0].innerHTML = htmlString;
+    })()
+  </script>
+</body>
 
-      var uri =  UriArray.length == 0 ? "" : UriArray.reduce((previousValue, currentValue) => previousValue + '/' + currentValue + '/');
-
-      while(uri.slice(-1) == '/'){
-        uri = uri.substring(0, uri.length - 1);
-      }
-
-      const Url = 'https://api.github.com/repos/keyskull/publish/contents/'+ uri + '?ref=gh-pages';
-
-      (async () => {
-        const response = await fetch(Url);
-        const data = await response.json();
-        let htmlString = '<ul>';
-
-    
-          
-            
-    
-
-          
-    
-    
-  
-        for (let file of data) {
-          htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
-        }
-        htmlString += '</ul>';
-        document.getElementsByTagName('body')[0].innerHTML = htmlString;
-      })()
-    </script>
-  </body>
 </html>
