@@ -1,4 +1,4 @@
-# <center>Data Science Project: Handwritten Digit Recognition</center>
+# Data Science Project: Handwritten Digit Recognition
 
 ## **1. Introduction**
 ---

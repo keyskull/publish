@@ -1,9 +1,10 @@
 {
-    "timestamp": 1634447149982,
+    "timestamp": 1634451993054,
     "status": {
         "added": [],
         "modified": [
-            "publish/index.html"
+            "publish/index.html",
+            "publish/projects/Handwritten Digit Recognition/Handwritten Digit Recognition.md"
         ],
         "removed": [],
         "renamed": []
