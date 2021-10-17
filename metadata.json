@@ -132,27 +132,27 @@
         "926caad25062ffc3700136cb46d938fd": {
             "path": "publish/projects/Handwritten Digit Recognition/Handwritten Digit Recognition.md",
             "title": "Handwritten Digit Recognition",
-            "revise_time": 0,
+            "revise_time": 1,
             "authors": [],
             "tags": [],
             "used_names": [],
-            "last_action": "added",
+            "last_action": "modified",
             "created_timestamp": 1634441170247,
-            "updated_timestamp": 1634441170247
+            "updated_timestamp": 1634451993504
         },
         "67a3ca384065f538a758ad8be3e26a5c": {
             "path": "publish/index.html",
             "title": "index",
-            "revise_time": 3,
+            "revise_time": 4,
             "authors": [],
             "tags": [],
             "used_names": [],
             "last_action": "modified",
             "created_timestamp": 1634446023299,
-            "updated_timestamp": 1634447150412
+            "updated_timestamp": 1634451993503
         }
     },
     "trash": [],
     "logging": [],
-    "commit": "60e0a3365548261ecbb65eafc525fce3f68338b4"
+    "commit": "2caf349e807fab0b8fd62ddc905100ea2e2dcc63"
 }
