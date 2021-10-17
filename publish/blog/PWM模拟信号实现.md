@@ -1,5 +1,5 @@
 ---
-tags: [hardware, C]
+tags: [hardware C tech]
 ---
 # PWM模拟信号实现
 Date:  2016-06-16 11:32
