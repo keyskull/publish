@@ -1,9 +1,10 @@
 {
-    "timestamp": 1634505927734,
+    "timestamp": 1634545535211,
     "status": {
         "added": [],
         "modified": [
-            "publish/index.html"
+            "publish/blog/A Few Ways of Using Free Resources to Create a Personal Website.md",
+            "publish/blog/The Collection of Some Free Online Resources.md"
         ],
         "removed": [],
         "renamed": []
