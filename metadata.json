@@ -72,17 +72,6 @@
             "created_timestamp": 1634092566116,
             "updated_timestamp": 1634545535736
         },
-        "a15a668fff47e25d0358ce76d2ad05c8": {
-            "path": "publish/blog/Backlinks in Markdown format.md",
-            "title": "Backlinks in Markdown format",
-            "revise_time": 3,
-            "authors": [],
-            "tags": [],
-            "used_names": [],
-            "last_action": "modified",
-            "created_timestamp": 1634321534750,
-            "updated_timestamp": 1634584812695
-        },
         "b97e299dbe8576098483d44da453ef94": {
             "path": "publish/blog/PWM模拟信号实现.md",
             "title": "PWM模拟信号实现",
@@ -154,5 +143,5 @@
     },
     "trash": [],
     "logging": [],
-    "commit": "9219945d1a41d249ea8f8588fc6c13a045f5f74a"
+    "commit": "a33ec8db14764d2af7c0576de14a7c71e3fb16ac"
 }
