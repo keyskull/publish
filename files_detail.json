@@ -1,11 +1,11 @@
 {
-    "timestamp": 1634584812246,
+    "timestamp": 1635291984948,
     "status": {
         "added": [],
-        "modified": [
+        "modified": [],
+        "removed": [
             "publish/blog/Backlinks in Markdown format.md"
         ],
-        "removed": [],
         "renamed": []
     }
 }
