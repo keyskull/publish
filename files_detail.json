@@ -1,9 +1,10 @@
 {
-    "timestamp": 1635735320326,
+    "timestamp": 1635738017986,
     "status": {
         "added": [],
         "modified": [
-            "publish/projects/Universal Router.md"
+            "publish/blog/Definition of Operational System, ETL, and Data Mart/Definition of Operational System, ETL, and Data Mart.md",
+            "publish/blog/Identify to A Business Intelligence Application on A Study Case.md"
         ],
         "removed": [],
         "renamed": []

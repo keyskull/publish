@@ -20,26 +20,16 @@ Customer relationship management (CRM) is the systems and processes that a busin
 Customer relationship management systems gather data about customers and how they interact with your business, which can then be used to(WARD, 2020):
 
 -   Improve customer service
-
 -   Guide the customer\'s buying journey
-
 -   Drive product development
-
 -   Personalize advertising
-
 -   Find new customers
-
 -   Increase sales
 
 
 In now day, many business intelligence applications are influencing enormous business in most of successful companies. Using business intelligence application could import effective of the business decision, company movement, and quality of producing process, etc.Through my recognition, my previous company is using some part of business intelligence management tools, online transaction processing(OLTP) system, online analytical processing (OLAP) system, and Customer Relationship Management (CRM) system. Those business intelligence applications are helpful in many aspects when I am working with. For example, when I am developing a management system for managers use, the business intelligence framework is effective to help to implement some features. Nevertheless, business intelligence applications are complicated, thus some of the company hardly to use on those applications.
-**REFERENCES**
 
+## REFERENCES
 Larson, B. (2016, November 4). *Delivering Business Intelligence with
-Microsoft SQL Server 2016, Fourth Edition, 4th Edition*.
-*\[\[VitalSource Bookshelf version\]\].* Retrieved from
-vbk://9781259641497
-
-WARD, S. U. S. A. N. (2020, October 4). *What Is Customer Relationship
-Management (CRM)?*
-https://www.thebalancesmb.com/crm-customer-relationship-management-2947184.
+Microsoft SQL Server 2016, Fourth Edition, 4th Edition*. *\[\[VitalSource Bookshelf version\]\].* Retrieved from vbk://9781259641497
+WARD, S. U. S. A. N. (2020, October 4). *What Is Customer Relationship Management (CRM)?* https://www.thebalancesmb.com/crm-customer-relationship-management-2947184.
