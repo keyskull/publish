@@ -1,11 +1,9 @@
 {
-    "timestamp": 1635756930896,
+    "timestamp": 1635758730190,
     "status": {
         "added": [],
         "modified": [
-            "publish/blog/Description of Data Mining and Six of the algorithms available in SQL Server.md",
-            "publish/blog/Identify to A Business Intelligence Application on A Study Case.md",
-            "publish/blog/静态网页托管服务资源.md"
+            "publish/projects/Application Construction/Application Construction.md"
         ],
         "removed": [],
         "renamed": []
