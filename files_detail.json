@@ -1,11 +1,16 @@
 {
-    "timestamp": 1635291984948,
+    "timestamp": 1635731719095,
     "status": {
-        "added": [],
-        "modified": [],
-        "removed": [
-            "publish/blog/Backlinks in Markdown format.md"
+        "added": [
+            "publish/blog/Backlinks Syntax in Markdown Documents.md",
+            "publish/blog/Definition of Operational System, ETL, and Data Mart/Definition of Operational System, ETL, and Data Mart.md",
+            "publish/blog/Definition of Operational System, ETL, and Data Mart/media/image1.jpeg",
+            "publish/blog/Identify to A Business Intelligence Application on A Study Case.md",
+            "publish/projects/Application Construction/Application Construction.md",
+            "publish/projects/Universal Router.md"
         ],
+        "modified": [],
+        "removed": [],
         "renamed": []
     }
 }
