@@ -6,9 +6,8 @@ date: "2021-10-31 18:17"
 Date:  2021-10-31 18:17
 
 ##  Introduction
-This page is describe about my portfolio application's developing process. The application is using Flutter Framework to resp the client 
+This page is describe about my portfolio application's developing process. The application is using Flutter Framework response on the client side.
 
-#todo 
 * [ ]  **Server Side**
 	* [ ] Data Storage
 		* [ ] Article
@@ -42,8 +41,6 @@ This page is describe about my portfolio application's developing process. The a
 		* [x] Out-link Detection
 		* [ ] Mind Map Support
 		* [ ] UML Support
-
-## Conclusion
 
 
 ---
