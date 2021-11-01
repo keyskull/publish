@@ -154,13 +154,13 @@
         "780a79e03936e1883248d742d076ec6c": {
             "path": "publish/blog/Definition of Operational System, ETL, and Data Mart/Definition of Operational System, ETL, and Data Mart.md",
             "title": "Definition of Operational System, ETL, and Data Mart",
-            "revise_time": 2,
+            "revise_time": 3,
             "authors": [],
             "tags": [],
             "used_names": [],
             "last_action": "modified",
             "created_timestamp": 1635731719095,
-            "updated_timestamp": 1635738018405
+            "updated_timestamp": 1635756030644
         },
         "68cd82ead0bf00610124274ddeb6d30e": {
             "path": "publish/blog/Identify to A Business Intelligence Application on A Study Case.md",
@@ -207,6 +207,61 @@
             "last_action": "renamed",
             "created_timestamp": 1635731719095,
             "updated_timestamp": 1635732619301
+        },
+        "af7530732005f5e33465ef0b40c98185": {
+            "path": "publish/blog/Definition of Aggregate, Dimensions, Facts/Definition of Aggregate, Dimensions, Facts.md",
+            "title": "Definition of Aggregate, Dimensions, Facts",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635756030180,
+            "updated_timestamp": 1635756030180
+        },
+        "426ef74f8461566a917f3477d796e5ca": {
+            "path": "publish/blog/Definition of Aggregate, Dimensions, Facts/media/image1.png",
+            "title": "image1",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635756030180,
+            "updated_timestamp": 1635756030180
+        },
+        "789f4af20ec1bf522d8f4905179608c2": {
+            "path": "publish/blog/Definition of Aggregate, Dimensions, Facts/media/image2.png",
+            "title": "image2",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635756030180,
+            "updated_timestamp": 1635756030180
+        },
+        "5840b751ff093cf2c634794386d651fe": {
+            "path": "publish/blog/Definition of Aggregate, Dimensions, Facts/media/image3.png",
+            "title": "image3",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635756030180,
+            "updated_timestamp": 1635756030180
+        },
+        "5b1d5a418d34010d1db534559ad3ca1a": {
+            "path": "publish/blog/Description of Data Mining and Six of the algorithms available in SQL Server.md",
+            "title": "Description of Data Mining and Six of the algorithms available in SQL Server",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635756030180,
+            "updated_timestamp": 1635756030180
         }
     },
     "trash": {
@@ -223,5 +278,5 @@
         }
     },
     "logging": [],
-    "commit": "23c4db07041c19dab2868f3e175acfac7eeab549"
+    "commit": "0848ee48ffd6bdfe9cfc66391fe2511372499419"
 }
