@@ -139,20 +139,87 @@
             "last_action": "modified",
             "created_timestamp": 1634446023299,
             "updated_timestamp": 1634505928056
+        },
+        "aca6106789f2a17a1060d8af88b3b074": {
+            "path": "publish/blog/Backlinks Syntax in Markdown Documents.md",
+            "title": "Backlinks Syntax in Markdown Documents",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635731719095,
+            "updated_timestamp": 1635731719095
+        },
+        "780a79e03936e1883248d742d076ec6c": {
+            "path": "publish/blog/Definition of Operational System, ETL, and Data Mart/Definition of Operational System, ETL, and Data Mart.md",
+            "title": "Definition of Operational System, ETL, and Data Mart",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635731719095,
+            "updated_timestamp": 1635731719095
+        },
+        "4594cd36119c026669e4235a7215eddb": {
+            "path": "publish/blog/Definition of Operational System, ETL, and Data Mart/media/image1.jpeg",
+            "title": "image1",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635731719095,
+            "updated_timestamp": 1635731719095
+        },
+        "68cd82ead0bf00610124274ddeb6d30e": {
+            "path": "publish/blog/Identify to A Business Intelligence Application on A Study Case.md",
+            "title": "Identify to A Business Intelligence Application on A Study Case",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635731719095,
+            "updated_timestamp": 1635731719095
+        },
+        "9629d468012118cede8778de3b82595e": {
+            "path": "publish/projects/Application Construction/Application Construction.md",
+            "title": "Application Construction",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635731719095,
+            "updated_timestamp": 1635731719095
+        },
+        "ee64d635899778f35e9de9acd79b88ac": {
+            "path": "publish/projects/Universal Router.md",
+            "title": "Universal Router",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1635731719095,
+            "updated_timestamp": 1635731719095
         }
     },
-    "trash": {"a15a668fff47e25d0358ce76d2ad05c8":{
-            "path":"publish/blog/Backlinks in Markdown format.md",
-            "title":"Backlinks in Markdown format",
-            "revise_time":4,
-            "authors":[],
-            "tags":[],
-            "used_names":[],
-            "last_action":"removed",
-            "created_timestamp":1634321534750,
-            "updated_timestamp":1635299659142
+    "trash": {
+        "a15a668fff47e25d0358ce76d2ad05c8": {
+            "path": "publish/blog/Backlinks in Markdown format.md",
+            "title": "Backlinks in Markdown format",
+            "revise_time": 4,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "removed",
+            "created_timestamp": 1634321534750,
+            "updated_timestamp": 1635299659142
         }
     },
     "logging": [],
-    "commit": "9219945d1a41d249ea8f8588fc6c13a045f5f74a"
+    "commit": "a40a4eba8c0880bcecce98631acc0ef70d211972"
 }
