@@ -11,7 +11,7 @@ Date:  2021-09-14 20:06
 ##### Router Process
 - MaterialApp.router => RouteInformationParser.parseRouteInformation => RouteInformationParser.restoreRouteInformation=>RouterDelegate.build => RouterDelegate.setNewRoutePath => RouterDelegate.currentConfiguration
 
-#### Chage Path Process
+#### Change Path Process
 - 
 
 
