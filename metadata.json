@@ -154,24 +154,13 @@
         "780a79e03936e1883248d742d076ec6c": {
             "path": "publish/blog/Definition of Operational System, ETL, and Data Mart/Definition of Operational System, ETL, and Data Mart.md",
             "title": "Definition of Operational System, ETL, and Data Mart",
-            "revise_time": 0,
+            "revise_time": 1,
             "authors": [],
             "tags": [],
             "used_names": [],
-            "last_action": "added",
+            "last_action": "modified",
             "created_timestamp": 1635731719095,
-            "updated_timestamp": 1635731719095
-        },
-        "4594cd36119c026669e4235a7215eddb": {
-            "path": "publish/blog/Definition of Operational System, ETL, and Data Mart/media/image1.jpeg",
-            "title": "image1",
-            "revise_time": 0,
-            "authors": [],
-            "tags": [],
-            "used_names": [],
-            "last_action": "added",
-            "created_timestamp": 1635731719095,
-            "updated_timestamp": 1635731719095
+            "updated_timestamp": 1635732619301
         },
         "68cd82ead0bf00610124274ddeb6d30e": {
             "path": "publish/blog/Identify to A Business Intelligence Application on A Study Case.md",
@@ -205,6 +194,19 @@
             "last_action": "added",
             "created_timestamp": 1635731719095,
             "updated_timestamp": 1635731719095
+        },
+        "58e777193b8a89ccef4d96b206d4f19c": {
+            "path": "publish/blog/Definition of Operational System, ETL, and Data Mart/image1.jpeg",
+            "title": "image1",
+            "revise_time": 1,
+            "authors": [],
+            "tags": [],
+            "used_names": [
+                "publish/blog/Definition of Operational System, ETL, and Data Mart/media/image1.jpeg"
+            ],
+            "last_action": "renamed",
+            "created_timestamp": 1635731719095,
+            "updated_timestamp": 1635732619301
         }
     },
     "trash": {
@@ -221,5 +223,5 @@
         }
     },
     "logging": [],
-    "commit": "a40a4eba8c0880bcecce98631acc0ef70d211972"
+    "commit": "b73d611b667932c58fc32856a719dfce0c1b9974"
 }
