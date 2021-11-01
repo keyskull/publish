@@ -154,24 +154,24 @@
         "780a79e03936e1883248d742d076ec6c": {
             "path": "publish/blog/Definition of Operational System, ETL, and Data Mart/Definition of Operational System, ETL, and Data Mart.md",
             "title": "Definition of Operational System, ETL, and Data Mart",
+            "revise_time": 2,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "modified",
+            "created_timestamp": 1635731719095,
+            "updated_timestamp": 1635738018405
+        },
+        "68cd82ead0bf00610124274ddeb6d30e": {
+            "path": "publish/blog/Identify to A Business Intelligence Application on A Study Case.md",
+            "title": "Identify to A Business Intelligence Application on A Study Case",
             "revise_time": 1,
             "authors": [],
             "tags": [],
             "used_names": [],
             "last_action": "modified",
             "created_timestamp": 1635731719095,
-            "updated_timestamp": 1635732619301
-        },
-        "68cd82ead0bf00610124274ddeb6d30e": {
-            "path": "publish/blog/Identify to A Business Intelligence Application on A Study Case.md",
-            "title": "Identify to A Business Intelligence Application on A Study Case",
-            "revise_time": 0,
-            "authors": [],
-            "tags": [],
-            "used_names": [],
-            "last_action": "added",
-            "created_timestamp": 1635731719095,
-            "updated_timestamp": 1635731719095
+            "updated_timestamp": 1635738018405
         },
         "9629d468012118cede8778de3b82595e": {
             "path": "publish/projects/Application Construction/Application Construction.md",
@@ -223,5 +223,5 @@
         }
     },
     "logging": [],
-    "commit": "58f64adc83541185611e8123cd88db63fd4f4ad8"
+    "commit": "23c4db07041c19dab2868f3e175acfac7eeab549"
 }
