@@ -36,7 +36,7 @@ This page is describe about my portfolio application's developing process. The a
 		* [x] Event Listeners
 			* [x] Path Changing Listener
 	* [ ] Markdown Support
-		* [x] [[Backlinks Syntax in Markdown Documents|Backlinks Syntax]]
+		* [x] [[Implement Backlinks Syntax Detection with Markdown Document Format|Backlinks Syntax]]
 		* [x] Metadata loading
 		* [x] Out-link Detection
 		* [ ] Mind Map Support
