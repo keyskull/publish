@@ -1,15 +1,11 @@
 {
-    "timestamp": 1635756030180,
+    "timestamp": 1635756930896,
     "status": {
-        "added": [
-            "publish/blog/Definition of Aggregate, Dimensions, Facts/Definition of Aggregate, Dimensions, Facts.md",
-            "publish/blog/Definition of Aggregate, Dimensions, Facts/media/image1.png",
-            "publish/blog/Definition of Aggregate, Dimensions, Facts/media/image2.png",
-            "publish/blog/Definition of Aggregate, Dimensions, Facts/media/image3.png",
-            "publish/blog/Description of Data Mining and Six of the algorithms available in SQL Server.md"
-        ],
+        "added": [],
         "modified": [
-            "publish/blog/Definition of Operational System, ETL, and Data Mart/Definition of Operational System, ETL, and Data Mart.md"
+            "publish/blog/Description of Data Mining and Six of the algorithms available in SQL Server.md",
+            "publish/blog/Identify to A Business Intelligence Application on A Study Case.md",
+            "publish/blog/静态网页托管服务资源.md"
         ],
         "removed": [],
         "renamed": []

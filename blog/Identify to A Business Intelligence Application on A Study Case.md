@@ -33,3 +33,6 @@ In now day, many business intelligence applications are influencing enormous bus
 Larson, B. (2016, November 4). *Delivering Business Intelligence with
 Microsoft SQL Server 2016, Fourth Edition, 4th Edition*. *\[\[VitalSource Bookshelf version\]\].* Retrieved from vbk://9781259641497
 WARD, S. U. S. A. N. (2020, October 4). *What Is Customer Relationship Management (CRM)?* https://www.thebalancesmb.com/crm-customer-relationship-management-2947184.
+
+---
+Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](/LICENSE)
