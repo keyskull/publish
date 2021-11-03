@@ -1,16 +1,12 @@
 {
-    "timestamp": 1635760531895,
+    "timestamp": 1635908963065,
     "status": {
-        "added": [
+        "added": [],
+        "modified": [
+            "publish/blog/Definition of Aggregate, Dimensions, Facts/Definition of Aggregate, Dimensions, Facts.md",
             "publish/blog/Implement Backlinks Syntax Detection with Markdown Document Format.md"
         ],
-        "modified": [
-            "publish/blog/使用 Github Pages创建静态网站的使用教程.md",
-            "publish/projects/Application Construction/Application Construction.md"
-        ],
-        "removed": [
-            "publish/blog/Backlinks Syntax in Markdown Documents.md"
-        ],
+        "removed": [],
         "renamed": []
     }
 }

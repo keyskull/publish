@@ -1,8 +1,8 @@
 ---
 tags: [Backlinks, Markdown]
+date: "2021-10-15 11:37"
 ---
 # Implement Backlinks Syntax Detection with Markdown Document Format
-Date:  2021-10-15 11:37
 
 ##  Introduction
 This page is describe about the implementation of the detecting to the Backlinks  syntax in Flutter Framework. About the Backlinks concept, I got inspired from [Obsidian](https://obsidian.md/).

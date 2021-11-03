@@ -200,13 +200,13 @@
         "af7530732005f5e33465ef0b40c98185": {
             "path": "publish/blog/Definition of Aggregate, Dimensions, Facts/Definition of Aggregate, Dimensions, Facts.md",
             "title": "Definition of Aggregate, Dimensions, Facts",
-            "revise_time": 0,
+            "revise_time": 1,
             "authors": [],
             "tags": [],
             "used_names": [],
-            "last_action": "added",
+            "last_action": "modified",
             "created_timestamp": 1635756030180,
-            "updated_timestamp": 1635756030180
+            "updated_timestamp": 1635908963369
         },
         "426ef74f8461566a917f3477d796e5ca": {
             "path": "publish/blog/Definition of Aggregate, Dimensions, Facts/media/image1.png",
@@ -255,13 +255,13 @@
         "d47b2a7e1d1b8341f941871e4988a763": {
             "path": "publish/blog/Implement Backlinks Syntax Detection with Markdown Document Format.md",
             "title": "Implement Backlinks Syntax Detection with Markdown Document Format",
-            "revise_time": 0,
+            "revise_time": 1,
             "authors": [],
             "tags": [],
             "used_names": [],
-            "last_action": "added",
+            "last_action": "modified",
             "created_timestamp": 1635760531895,
-            "updated_timestamp": 1635760531895
+            "updated_timestamp": 1635908963370
         }
     },
     "trash": {
@@ -289,5 +289,5 @@
         }
     },
     "logging": [],
-    "commit": "6aa9cddd3badde89c3fb8489727cd44c49743724"
+    "commit": "c8f41afdf9e0cd1e3cff92e731a6b0b3c34ac891"
 }
