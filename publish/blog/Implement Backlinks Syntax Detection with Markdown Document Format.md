@@ -16,4 +16,4 @@ Here is the detail of the Backlinks concept from Obsidian:
 
 
 ---
-Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](/LICENSE)
+Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](80x15.png)](/LICENSE)

@@ -14,4 +14,4 @@ Date:  2021-10-16 01:11
 
 
 ---
-Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](/LICENSE)
+Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](80x15.png)](/LICENSE)

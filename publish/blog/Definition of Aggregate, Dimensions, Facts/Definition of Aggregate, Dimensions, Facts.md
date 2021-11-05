@@ -86,4 +86,4 @@ WARD, S. U. S. A. N. (2020, October 4). *What Is Customer Relationship Managemen
 
 
 ---
-Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](/LICENSE)
+Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](80x15.png)](/LICENSE)
