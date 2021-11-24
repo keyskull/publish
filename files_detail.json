@@ -1,29 +1,10 @@
 {
-    "timestamp": 1636078206999,
+    "timestamp": 1637795945269,
     "status": {
         "added": [
-            "publish/80x15.png"
+            "publish/blockchain/BSC_BEP20.json"
         ],
-        "modified": [
-            "publish/blog/A Few Ways of Using Free Resources to Create a Personal Website.md",
-            "publish/blog/Definition of Aggregate, Dimensions, Facts/Definition of Aggregate, Dimensions, Facts.md",
-            "publish/blog/Definition of Operational System, ETL, and Data Mart/Definition of Operational System, ETL, and Data Mart.md",
-            "publish/blog/Description of Data Mining and Six of the algorithms available in SQL Server.md",
-            "publish/blog/Free Domain Resoures.md",
-            "publish/blog/How to Host Your Static Page in Github.md",
-            "publish/blog/Identify to A Business Intelligence Application on A Study Case.md",
-            "publish/blog/Implement Backlinks Syntax Detection with Markdown Document Format.md",
-            "publish/blog/PWM模拟信号实现.md",
-            "publish/blog/The Collection of Some Free Online Resources.md",
-            "publish/blog/使用 Github Pages创建静态网站的使用教程.md",
-            "publish/blog/使用免费网络源创建个人网站的多种方法和实现过程.md",
-            "publish/blog/免费网络资源集合.md",
-            "publish/blog/建立图床服务器.md",
-            "publish/blog/静态网页托管服务资源.md",
-            "publish/projects/Application Construction/Application Construction.md",
-            "publish/projects/Handwritten Digit Recognition/Handwritten Digit Recognition.md",
-            "publish/projects/Universal Router.md"
-        ],
+        "modified": [],
         "removed": [],
         "renamed": []
     }
