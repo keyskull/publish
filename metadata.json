@@ -299,13 +299,13 @@
         "81f9372a6bc4ef8687aa36b0d046627c": {
             "path": "publish/blockchain/artalaxies_default.json",
             "title": "artalaxies_default",
-            "revise_time": 0,
+            "revise_time": 1,
             "authors": [],
             "tags": [],
             "used_names": [],
-            "last_action": "added",
+            "last_action": "modified",
             "created_timestamp": 1639170443837,
-            "updated_timestamp": 1639170443837
+            "updated_timestamp": 1639199607555
         }
     },
     "trash": {
@@ -333,5 +333,5 @@
         }
     },
     "logging": [],
-    "commit": "749095a267c9531e059e749a44c5e8fdaba6e917"
+    "commit": "e3ba2da6332108e7b553666c197189cb8fd9e844"
 }
