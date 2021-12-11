@@ -1,10 +1,10 @@
 {
-    "timestamp": 1639170443837,
+    "timestamp": 1639199607102,
     "status": {
-        "added": [
+        "added": [],
+        "modified": [
             "publish/blockchain/artalaxies_default.json"
         ],
-        "modified": [],
         "removed": [],
         "renamed": []
     }
