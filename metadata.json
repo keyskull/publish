@@ -306,6 +306,17 @@
             "last_action": "modified",
             "created_timestamp": 1639170443837,
             "updated_timestamp": 1640844076067
+        },
+        "2f65f4be9ec18e092528952e88093074": {
+            "path": "publish/blockchain/artalaxies_drawing.json",
+            "title": "artalaxies_drawing",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "added",
+            "created_timestamp": 1640853080971,
+            "updated_timestamp": 1640853080971
         }
     },
     "trash": {
@@ -333,5 +344,5 @@
         }
     },
     "logging": [],
-    "commit": "bdc714f843772c20f5f1a9f7f07f52dc16493b38"
+    "commit": "616d00b782b68e3583e57c0465f8822c2978dd60"
 }
