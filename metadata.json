@@ -143,13 +143,13 @@
         "780a79e03936e1883248d742d076ec6c": {
             "path": "publish/blog/Definition of Operational System, ETL, and Data Mart/Definition of Operational System, ETL, and Data Mart.md",
             "title": "Definition of Operational System, ETL, and Data Mart",
-            "revise_time": 4,
+            "revise_time": 5,
             "authors": [],
             "tags": [],
             "used_names": [],
             "last_action": "modified",
             "created_timestamp": 1635731719095,
-            "updated_timestamp": 1636078207385
+            "updated_timestamp": 1658288687053
         },
         "68cd82ead0bf00610124274ddeb6d30e": {
             "path": "publish/blog/Identify to A Business Intelligence Application on A Study Case.md",
@@ -200,13 +200,13 @@
         "af7530732005f5e33465ef0b40c98185": {
             "path": "publish/blog/Definition of Aggregate, Dimensions, Facts/Definition of Aggregate, Dimensions, Facts.md",
             "title": "Definition of Aggregate, Dimensions, Facts",
-            "revise_time": 2,
+            "revise_time": 3,
             "authors": [],
             "tags": [],
             "used_names": [],
             "last_action": "modified",
             "created_timestamp": 1635756030180,
-            "updated_timestamp": 1636078207385
+            "updated_timestamp": 1658288687053
         },
         "426ef74f8461566a917f3477d796e5ca": {
             "path": "publish/blog/Definition of Aggregate, Dimensions, Facts/media/image1.png",
@@ -317,6 +317,17 @@
             "last_action": "modified",
             "created_timestamp": 1640853080971,
             "updated_timestamp": 1640853980449
+        },
+        "622663a515a059b294c9ba1aaf2d47d5": {
+            "path": "publish/LICENSE.md",
+            "title": "LICENSE",
+            "revise_time": 0,
+            "authors": [],
+            "tags": [],
+            "used_names": [],
+            "last_action": "unknown",
+            "created_timestamp": 1658288687061,
+            "updated_timestamp": 1658288687061
         }
     },
     "trash": {
@@ -344,5 +355,5 @@
         }
     },
     "logging": [],
-    "commit": "92579bf341470e5ae90e4f34638ef906bef5aff8"
+    "commit": "f015853424949865eb6426f6166d493dbdacef96"
 }

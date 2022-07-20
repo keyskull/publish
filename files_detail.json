@@ -1,11 +1,19 @@
 {
-    "timestamp": 1640853980045,
+    "timestamp": 1658288686761,
     "status": {
         "added": [],
         "modified": [
-            "publish/blockchain/artalaxies_drawing.json"
+            "publish/blog/Definition of Aggregate, Dimensions, Facts/Definition of Aggregate, Dimensions, Facts.md",
+            "publish/blog/Definition of Operational System, ETL, and Data Mart/Definition of Operational System, ETL, and Data Mart.md"
         ],
         "removed": [],
-        "renamed": []
+        "renamed": [
+            {
+                "file": {
+                    "filename": "publish/LICENSE.md",
+                    "previous_filename": "publish/LICENSE"
+                }
+            }
+        ]
     }
 }
