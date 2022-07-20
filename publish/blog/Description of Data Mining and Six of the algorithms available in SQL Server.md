@@ -65,4 +65,4 @@ Larson, B. (2016, November 4). *Delivering Business Intelligence with Microsoft 
 Larson, B. (2008). *Delivering Business Intelligence with Microsoft SQL Server 2008* (2nd ed.). McGraw-Hill Education.
 
 ---
-Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](80x15.png)](/LICENSE)
+Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](/80x15.png)](/LICENSE)

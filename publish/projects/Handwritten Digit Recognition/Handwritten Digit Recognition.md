@@ -3276,4 +3276,4 @@ perdiction
 The handwrittern numbers could be classified from grayscale image pixels, with size of 28x28. Using different alorgrithms are having different accuracy. The Ramdomforest Algorithm has the highest accuracy(96.133618%) of the digital numbers predition. 
 
 ---
-Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](80x15.png)](/LICENSE)
+Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](/80x15.png)](/LICENSE)
