@@ -40,4 +40,4 @@ Related Page: [[How to Host Your Static Page in Github]]
 
  
 ---
-Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](80x15.png)](/LICENSE)
+Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](/80x15.png)](/LICENSE)

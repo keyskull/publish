@@ -45,4 +45,4 @@ usleep(20000-500-speed);//填充延时时间
 
 
 ---
-Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](80x15.png)](/LICENSE)
+Copyright © 2021, [Jialin Li](https://github.com/keyskull).  [![Copyright](/80x15.png)](/LICENSE)
