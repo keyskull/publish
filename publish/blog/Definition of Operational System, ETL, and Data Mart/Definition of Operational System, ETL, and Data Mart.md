@@ -23,7 +23,7 @@ This paper is discussing the Operational system, Extract, Transform, Load (ETL),
 
 ## Figure 1
 
-![](image1.jpeg)
+![](publish/blog/Definition%20of%20Operational%20System,%20ETL,%20and%20Data%20Mart/image1.jpeg)
 
 ## Extract, Transform, Load (ETL)
 The extract, transform, and load (ETL) process extracts data from one or more OLTP systems, performs any required data cleansing to transform the data into a consistent format, and loads the cleansed data by inserting it into the data mart. (Larson, 2016) With my understanding, the extract, transform, load (ETL) process is the process to data before store data into the Data Mart. Data cleansing is a procedure of the extract, transform, and load (ETL) process.

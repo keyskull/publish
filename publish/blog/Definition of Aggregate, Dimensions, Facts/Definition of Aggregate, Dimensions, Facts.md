@@ -14,7 +14,7 @@ An aggregate is a number that is calculated from amounts in many detail records.
 
 ### Figure 1
 
-![](media/image1.png)
+![](publish/blog/Definition%20of%20Aggregate,%20Dimensions,%20Facts/media/image1.png)
 
 (Larson, 2016)
 
@@ -26,7 +26,7 @@ A dimension is a categorization used to spread out an aggregate measure to revea
 
 ### Figure 2
 
-![](media/image2.png)
+![](publish/blog/Definition%20of%20Aggregate,%20Dimensions,%20Facts/media/image2.png)
 
 (Larson, 2016)
 
@@ -38,7 +38,7 @@ In addition to presenting the facts, the fact table includes surrogate keys that
 
 ### Figure 3
 
-![](media/image3.png)
+![](publish/blog/Definition%20of%20Aggregate,%20Dimensions,%20Facts/media/image3.png)
 
 (Larson, 2016)
 
