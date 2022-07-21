@@ -154,13 +154,13 @@
         "9629d468012118cede8778de3b82595e": {
             "path": "publish/projects/Application Construction/Application Construction.md",
             "title": "Application Construction",
-            "revise_time": 8,
+            "revise_time": 9,
             "authors": [],
             "tags": [],
             "used_names": [],
             "last_action": "modified",
             "created_timestamp": 1635731719095,
-            "updated_timestamp": 1658388329805
+            "updated_timestamp": 1658389625989
         },
         "ee64d635899778f35e9de9acd79b88ac": {
             "path": "publish/projects/Universal Router.md",
@@ -377,5 +377,5 @@
         }
     },
     "logging": [],
-    "commit": "81e0b38ae17af944d7adb2634a6bfeecd309567b"
+    "commit": "8d52ab503c2e9e3a703b7e234d17e8f35d18e860"
 }
