@@ -1,12 +1,8 @@
 ---
-
-mindmap-plugin: base
-display-mode: table
-
 tags: [website, project]
 date: "2021-10-31 18:17"
-
-
+mindmap-plugin: base
+display-mode: table
 ---
 
 # Application Construction
